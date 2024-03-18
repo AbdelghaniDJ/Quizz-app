@@ -1,0 +1,12 @@
+*{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #EEE;
+}
+.card{
+    color:black;
+    width: 400px;
+    align-self: center;
+    
+}
